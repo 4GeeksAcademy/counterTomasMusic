@@ -10,3 +10,10 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.container {
+    width: 500px !important; 
+    height: 100px !important;
+    padding-top: 12px  !important;
+    font-size: 50px !important;
+    
+}
